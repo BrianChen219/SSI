@@ -100,7 +100,7 @@ def main():
             if message is not None and message != "" and message != "exit":
                 mm.swith_channel(message)
             (relaxTime, workTime) = _isReady()
-        mm = None
+        mm.stop()
         # Store data into json file
         if len(result_lst) != 0:
             path = name_json()
