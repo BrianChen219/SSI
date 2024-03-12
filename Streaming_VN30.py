@@ -4,8 +4,8 @@ import platform
 from time import sleep
 from threading import Timer
 from datetime import datetime
-from .ssi_fc_data.fc_md_stream import MarketDataStream
-from .ssi_fc_data.fc_md_client import MarketDataClient
+from ssi_fc_data.fc_md_stream import MarketDataStream
+from ssi_fc_data.fc_md_client import MarketDataClient
 from inputimeout import inputimeout
 
 # Example Data
