@@ -6,7 +6,8 @@ from .fc_md_client import MarketDataClient
 
 
 class MarketDataStream(object):
-
+	
+	# Edit code (add _file)
 	def __init__(self, _file, _config, client: MarketDataClient):
 
 		self._config = _config
@@ -15,7 +16,7 @@ class MarketDataStream(object):
 		self._error_handlers = []
 		self._file = _file
 
-
+	# Edit code (add self._file, x['content'])
 	def _on_message(self, _message):
 		x = json.loads(_message)
 		try:
@@ -58,3 +59,12 @@ class MarketDataStream(object):
 		self.connection.error += _on_error
 		self.connection.on_open_callback(lambda: self.hub_proxy.server.invoke('SwitchChannels', _selected_channel))
 		self.connection.start()
+
+	# Edit code (add stop function)
+	def stop(self):
+		headers = {}#utils.default_headers()
+		using_jwt = self._client._get_access_token()
+		headers['Authorization'] = self._config.auth_type \
+					+ constants.ONE_WHITE_SPACE + using_jwt
+		self.connection = Connection(self._config.stream_url + api.SIGNALR, headers)
+		self.connection.stop()
