@@ -46,9 +46,9 @@ def name_json():
     name_data = "DataVN30F2404_" + datetime.now().strftime("%d-%m-%H-%M-%S")
     type_data = ".json"
     if platform.system() == 'Windows':
-        path_data = 'Data\Auto Data\VN30F2404\\'
+        path_data = 'data\\vn30f2404\\'
     else:
-        path_data = 'Data/Auto Data/VN30F2404/'
+        path_data = 'data/vn30f2404/'
     path = path_data + name_data + type_data
     return path
 

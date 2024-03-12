@@ -4,8 +4,8 @@ import platform
 from time import sleep
 from threading import Timer
 from datetime import datetime
-from ssi_fc_data.fc_md_stream import MarketDataStream
-from ssi_fc_data.fc_md_client import MarketDataClient
+from .ssi_fc_data.fc_md_stream import MarketDataStream
+from .ssi_fc_data.fc_md_client import MarketDataClient
 from inputimeout import inputimeout
 
 # Example Data
@@ -52,9 +52,9 @@ def name_json():
     name_data = "DataVN30_" + datetime.now().strftime("%d-%m-%H-%M-%S")
     type_data = ".json"
     if platform.system() == 'Windows':
-        path_data = 'Data\Auto Data\VN30\\'
+        path_data = 'data\\vn30\\'
     else:
-        path_data = 'Data/Auto Data/VN30/'
+        path_data = 'data/vn30/'
     path = path_data + name_data + type_data
     return path
 
