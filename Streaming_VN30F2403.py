@@ -19,7 +19,7 @@ def _isReady():
     month = datetime.now().month
     day = datetime.now().day
     atTime = datetime.now()
-    beginTime = datetime(year, month, day, 9, 29, 50, 0)
+    beginTime = datetime(year, month, day, 8, 59, 50, 0)
     beginBreak = datetime(year, month, day, 11, 30, 10, 0)
     endBreak = datetime(year, month, day, 12, 59, 50, 0)
     endTime = datetime(year, month, day, 14, 46, 0, 0)
@@ -46,9 +46,9 @@ def name_json():
     name_data = "DataVN30F2403_" + datetime.now().strftime("%d-%m-%H-%M-%S")
     type_data = ".json"
     if platform.system() == 'Windows':
-        path_data = 'data\\vn30f2403\\'
+        path_data = 'Finance API\Architecture-automation-from-Finance-data-API-to-Cloud-Database-in-real-time\data\\vn30f2403\\'
     else:
-        path_data = 'data/vn30f2403/'
+        path_data = 'Finance API/Architecture-automation-from-Finance-data-API-to-Cloud-Database-in-real-time/data/vn30f2403/'
     path = path_data + name_data + type_data
     return path
 
@@ -77,7 +77,6 @@ def main():
     selected_channel = "B:VN30F2403"
     message = None
     (relaxTime, workTime) = _isReady()
-    
     while (relaxTime or workTime) and message != 'exit':
         message = None
         result_lst = []

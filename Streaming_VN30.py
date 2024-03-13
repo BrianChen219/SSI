@@ -26,7 +26,7 @@ def _isReady():
     day = datetime.now().day
     atTime = datetime.now()
     beginTime = datetime(year, month, day, 9, 29, 50, 0)
-    beginBreak = datetime(year, month, day, 11, 30, 6, 0)
+    beginBreak = datetime(year, month, day, 11, 30, 10, 0)
     endBreak = datetime(year, month, day, 12, 59, 50, 0)
     endTime = datetime(year, month, day, 14, 46, 0, 0)
     if atTime < beginTime:
@@ -52,9 +52,9 @@ def name_json():
     name_data = "DataVN30_" + datetime.now().strftime("%d-%m-%H-%M-%S")
     type_data = ".json"
     if platform.system() == 'Windows':
-        path_data = 'data\\vn30\\'
+        path_data = 'Finance API\Architecture-automation-from-Finance-data-API-to-Cloud-Database-in-real-time\data\\vn30\\'
     else:
-        path_data = 'data/vn30/'
+        path_data = 'Finance API/Architecture-automation-from-Finance-data-API-to-Cloud-Database-in-real-time/data/vn30/'
     path = path_data + name_data + type_data
     return path
 
@@ -81,17 +81,16 @@ def main():
     selected_channel = "MI:VN30"
     message = None
     (relaxTime, workTime) = _isReady()
-    result_lst = []
-    mm = MarketDataStream(result_lst, config, MarketDataClient(config))
-    mm.start(get_market_data, getError, selected_channel)
     while (relaxTime or workTime) and message != 'exit':
         message = None
+        result_lst = []
         if relaxTime > 0:
             print("Time for relax: ", relaxTime)
             sleep(relaxTime)
         (relaxTime, workTime) = _isReady()
         if workTime > 0:
-            pass
+            mm = MarketDataStream(result_lst, config, MarketDataClient(config))
+            mm.start(get_market_data, getError, selected_channel)
         # Check work time, if work time is False so exit
         # Clients could exit by message
         while workTime and message != 'timeout' and message != 'exit':

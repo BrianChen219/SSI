@@ -1,0 +1,2402 @@
+[
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "11:29:50",
+        "Symbol": "VN30F2404",
+        "Open": 1255.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:00:07",
+        "Symbol": "VN30F2404",
+        "Open": 1254.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:04:15",
+        "Symbol": "VN30F2404",
+        "Open": 1253.4,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:04:25",
+        "Symbol": "VN30F2404",
+        "Open": 1253.7,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:04:30",
+        "Symbol": "VN30F2404",
+        "Open": 1253.7,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:04:55",
+        "Symbol": "VN30F2404",
+        "Open": 1253.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:05:11",
+        "Symbol": "VN30F2404",
+        "Open": 1253.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:07:04",
+        "Symbol": "VN30F2404",
+        "Open": 1253.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:11:11",
+        "Symbol": "VN30F2404",
+        "Open": 1253.0,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:12:04",
+        "Symbol": "VN30F2404",
+        "Open": 1253.0,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:12:28",
+        "Symbol": "VN30F2404",
+        "Open": 1253.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:13:11",
+        "Symbol": "VN30F2404",
+        "Open": 1253.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:14:28",
+        "Symbol": "VN30F2404",
+        "Open": 1252.6,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:14:44",
+        "Symbol": "VN30F2404",
+        "Open": 1252.5,
+        "Volume": 6.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:14:46",
+        "Symbol": "VN30F2404",
+        "Open": 1252.5,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:14:54",
+        "Symbol": "VN30F2404",
+        "Open": 1252.4,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:15:06",
+        "Symbol": "VN30F2404",
+        "Open": 1252.4,
+        "Volume": 6.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:15:24",
+        "Symbol": "VN30F2404",
+        "Open": 1252.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:16:25",
+        "Symbol": "VN30F2404",
+        "Open": 1252.2,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:17:15",
+        "Symbol": "VN30F2404",
+        "Open": 1252.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:18:10",
+        "Symbol": "VN30F2404",
+        "Open": 1252.2,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:19:59",
+        "Symbol": "VN30F2404",
+        "Open": 1252.5,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:20:06",
+        "Symbol": "VN30F2404",
+        "Open": 1252.1,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:20:12",
+        "Symbol": "VN30F2404",
+        "Open": 1252.0,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:20:17",
+        "Symbol": "VN30F2404",
+        "Open": 1252.0,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:20:22",
+        "Symbol": "VN30F2404",
+        "Open": 1251.8,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:20:34",
+        "Symbol": "VN30F2404",
+        "Open": 1251.5,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:20:41",
+        "Symbol": "VN30F2404",
+        "Open": 1251.5,
+        "Volume": 15.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:20:46",
+        "Symbol": "VN30F2404",
+        "Open": 1251.4,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:21:50",
+        "Symbol": "VN30F2404",
+        "Open": 1251.5,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:21:57",
+        "Symbol": "VN30F2404",
+        "Open": 1251.5,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:22:26",
+        "Symbol": "VN30F2404",
+        "Open": 1251.5,
+        "Volume": 8.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:22:28",
+        "Symbol": "VN30F2404",
+        "Open": 1251.5,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:22:36",
+        "Symbol": "VN30F2404",
+        "Open": 1251.5,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:22:39",
+        "Symbol": "VN30F2404",
+        "Open": 1251.5,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:23:24",
+        "Symbol": "VN30F2404",
+        "Open": 1251.5,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:26:01",
+        "Symbol": "VN30F2404",
+        "Open": 1251.6,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:26:11",
+        "Symbol": "VN30F2404",
+        "Open": 1251.6,
+        "Volume": 10.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:26:14",
+        "Symbol": "VN30F2404",
+        "Open": 1251.6,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:26:19",
+        "Symbol": "VN30F2404",
+        "Open": 1252.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:26:54",
+        "Symbol": "VN30F2404",
+        "Open": 1252.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:27:13",
+        "Symbol": "VN30F2404",
+        "Open": 1252.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:27:18",
+        "Symbol": "VN30F2404",
+        "Open": 1252.0,
+        "Volume": 12.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:28:20",
+        "Symbol": "VN30F2404",
+        "Open": 1252.5,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:28:31",
+        "Symbol": "VN30F2404",
+        "Open": 1252.9,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:28:53",
+        "Symbol": "VN30F2404",
+        "Open": 1252.8,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:29:03",
+        "Symbol": "VN30F2404",
+        "Open": 1252.8,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:29:11",
+        "Symbol": "VN30F2404",
+        "Open": 1254.2,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:30:02",
+        "Symbol": "VN30F2404",
+        "Open": 1253.5,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:30:30",
+        "Symbol": "VN30F2404",
+        "Open": 1253.9,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:30:53",
+        "Symbol": "VN30F2404",
+        "Open": 1253.9,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:31:03",
+        "Symbol": "VN30F2404",
+        "Open": 1253.9,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:31:06",
+        "Symbol": "VN30F2404",
+        "Open": 1254.2,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:31:11",
+        "Symbol": "VN30F2404",
+        "Open": 1254.2,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:31:22",
+        "Symbol": "VN30F2404",
+        "Open": 1254.8,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:31:28",
+        "Symbol": "VN30F2404",
+        "Open": 1255.0,
+        "Volume": 14.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:31:36",
+        "Symbol": "VN30F2404",
+        "Open": 1255.5,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:31:38",
+        "Symbol": "VN30F2404",
+        "Open": 1255.8,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:31:44",
+        "Symbol": "VN30F2404",
+        "Open": 1255.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:32:10",
+        "Symbol": "VN30F2404",
+        "Open": 1255.4,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:32:19",
+        "Symbol": "VN30F2404",
+        "Open": 1255.8,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:32:24",
+        "Symbol": "VN30F2404",
+        "Open": 1255.4,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:32:27",
+        "Symbol": "VN30F2404",
+        "Open": 1255.2,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:32:41",
+        "Symbol": "VN30F2404",
+        "Open": 1255.7,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:32:55",
+        "Symbol": "VN30F2404",
+        "Open": 1255.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:33:30",
+        "Symbol": "VN30F2404",
+        "Open": 1255.5,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:35:09",
+        "Symbol": "VN30F2404",
+        "Open": 1254.6,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:35:52",
+        "Symbol": "VN30F2404",
+        "Open": 1255.1,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:35:54",
+        "Symbol": "VN30F2404",
+        "Open": 1255.2,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:35:57",
+        "Symbol": "VN30F2404",
+        "Open": 1255.2,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:36:22",
+        "Symbol": "VN30F2404",
+        "Open": 1255.4,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:36:28",
+        "Symbol": "VN30F2404",
+        "Open": 1255.5,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:36:44",
+        "Symbol": "VN30F2404",
+        "Open": 1255.5,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:36:47",
+        "Symbol": "VN30F2404",
+        "Open": 1255.6,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:38:03",
+        "Symbol": "VN30F2404",
+        "Open": 1255.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:38:36",
+        "Symbol": "VN30F2404",
+        "Open": 1255.5,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:38:38",
+        "Symbol": "VN30F2404",
+        "Open": 1255.6,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:38:58",
+        "Symbol": "VN30F2404",
+        "Open": 1255.6,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:39:06",
+        "Symbol": "VN30F2404",
+        "Open": 1255.9,
+        "Volume": 6.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:39:11",
+        "Symbol": "VN30F2404",
+        "Open": 1256.0,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:39:23",
+        "Symbol": "VN30F2404",
+        "Open": 1256.8,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:39:31",
+        "Symbol": "VN30F2404",
+        "Open": 1257.9,
+        "Volume": 13.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:39:34",
+        "Symbol": "VN30F2404",
+        "Open": 1257.9,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:39:37",
+        "Symbol": "VN30F2404",
+        "Open": 1259.8,
+        "Volume": 38.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:39:39",
+        "Symbol": "VN30F2404",
+        "Open": 1259.8,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:39:45",
+        "Symbol": "VN30F2404",
+        "Open": 1259.8,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:39:48",
+        "Symbol": "VN30F2404",
+        "Open": 1259.2,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:39:56",
+        "Symbol": "VN30F2404",
+        "Open": 1259.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:40:10",
+        "Symbol": "VN30F2404",
+        "Open": 1259.1,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:40:22",
+        "Symbol": "VN30F2404",
+        "Open": 1259.1,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:40:38",
+        "Symbol": "VN30F2404",
+        "Open": 1259.5,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:40:55",
+        "Symbol": "VN30F2404",
+        "Open": 1259.6,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:41:04",
+        "Symbol": "VN30F2404",
+        "Open": 1259.9,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:41:06",
+        "Symbol": "VN30F2404",
+        "Open": 1260.0,
+        "Volume": 10.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:41:09",
+        "Symbol": "VN30F2404",
+        "Open": 1260.0,
+        "Volume": 10.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:41:15",
+        "Symbol": "VN30F2404",
+        "Open": 1260.0,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:41:18",
+        "Symbol": "VN30F2404",
+        "Open": 1260.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:41:23",
+        "Symbol": "VN30F2404",
+        "Open": 1259.8,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:41:29",
+        "Symbol": "VN30F2404",
+        "Open": 1260.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:41:38",
+        "Symbol": "VN30F2404",
+        "Open": 1260.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:41:44",
+        "Symbol": "VN30F2404",
+        "Open": 1259.0,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:41:58",
+        "Symbol": "VN30F2404",
+        "Open": 1260.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:42:29",
+        "Symbol": "VN30F2404",
+        "Open": 1259.8,
+        "Volume": 9.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:42:39",
+        "Symbol": "VN30F2404",
+        "Open": 1258.7,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:42:54",
+        "Symbol": "VN30F2404",
+        "Open": 1258.7,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:43:36",
+        "Symbol": "VN30F2404",
+        "Open": 1258.7,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:43:51",
+        "Symbol": "VN30F2404",
+        "Open": 1258.7,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:43:54",
+        "Symbol": "VN30F2404",
+        "Open": 1258.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:44:14",
+        "Symbol": "VN30F2404",
+        "Open": 1257.6,
+        "Volume": 14.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:44:19",
+        "Symbol": "VN30F2404",
+        "Open": 1258.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:45:31",
+        "Symbol": "VN30F2404",
+        "Open": 1259.2,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:46:16",
+        "Symbol": "VN30F2404",
+        "Open": 1259.2,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:46:19",
+        "Symbol": "VN30F2404",
+        "Open": 1259.2,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:46:21",
+        "Symbol": "VN30F2404",
+        "Open": 1259.2,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:46:25",
+        "Symbol": "VN30F2404",
+        "Open": 1259.2,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:46:33",
+        "Symbol": "VN30F2404",
+        "Open": 1259.2,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:46:48",
+        "Symbol": "VN30F2404",
+        "Open": 1259.2,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:46:51",
+        "Symbol": "VN30F2404",
+        "Open": 1259.2,
+        "Volume": 6.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:47:43",
+        "Symbol": "VN30F2404",
+        "Open": 1259.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:47:46",
+        "Symbol": "VN30F2404",
+        "Open": 1259.2,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:49:00",
+        "Symbol": "VN30F2404",
+        "Open": 1259.2,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:49:35",
+        "Symbol": "VN30F2404",
+        "Open": 1259.6,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:49:47",
+        "Symbol": "VN30F2404",
+        "Open": 1260.0,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:49:58",
+        "Symbol": "VN30F2404",
+        "Open": 1260.8,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:50:01",
+        "Symbol": "VN30F2404",
+        "Open": 1261.0,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:50:04",
+        "Symbol": "VN30F2404",
+        "Open": 1261.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:50:23",
+        "Symbol": "VN30F2404",
+        "Open": 1260.3,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:51:11",
+        "Symbol": "VN30F2404",
+        "Open": 1260.3,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:51:14",
+        "Symbol": "VN30F2404",
+        "Open": 1260.3,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:51:17",
+        "Symbol": "VN30F2404",
+        "Open": 1259.8,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:51:55",
+        "Symbol": "VN30F2404",
+        "Open": 1258.8,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:52:04",
+        "Symbol": "VN30F2404",
+        "Open": 1258.5,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:53:12",
+        "Symbol": "VN30F2404",
+        "Open": 1258.2,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:53:27",
+        "Symbol": "VN30F2404",
+        "Open": 1259.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:54:00",
+        "Symbol": "VN30F2404",
+        "Open": 1258.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:54:03",
+        "Symbol": "VN30F2404",
+        "Open": 1257.7,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:54:18",
+        "Symbol": "VN30F2404",
+        "Open": 1258.0,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:54:24",
+        "Symbol": "VN30F2404",
+        "Open": 1258.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:55:38",
+        "Symbol": "VN30F2404",
+        "Open": 1259.3,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:57:23",
+        "Symbol": "VN30F2404",
+        "Open": 1259.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:57:56",
+        "Symbol": "VN30F2404",
+        "Open": 1259.2,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:58:46",
+        "Symbol": "VN30F2404",
+        "Open": 1259.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:58:53",
+        "Symbol": "VN30F2404",
+        "Open": 1259.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:58:59",
+        "Symbol": "VN30F2404",
+        "Open": 1259.0,
+        "Volume": 23.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:59:02",
+        "Symbol": "VN30F2404",
+        "Open": 1259.0,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:59:05",
+        "Symbol": "VN30F2404",
+        "Open": 1259.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:59:08",
+        "Symbol": "VN30F2404",
+        "Open": 1259.0,
+        "Volume": 9.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:59:45",
+        "Symbol": "VN30F2404",
+        "Open": 1259.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:59:48",
+        "Symbol": "VN30F2404",
+        "Open": 1259.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "13:59:51",
+        "Symbol": "VN30F2404",
+        "Open": 1259.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:01:01",
+        "Symbol": "VN30F2404",
+        "Open": 1260.9,
+        "Volume": 6.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:01:04",
+        "Symbol": "VN30F2404",
+        "Open": 1261.0,
+        "Volume": 6.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:01:07",
+        "Symbol": "VN30F2404",
+        "Open": 1261.0,
+        "Volume": 7.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:01:11",
+        "Symbol": "VN30F2404",
+        "Open": 1261.7,
+        "Volume": 7.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:01:14",
+        "Symbol": "VN30F2404",
+        "Open": 1261.9,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:01:17",
+        "Symbol": "VN30F2404",
+        "Open": 1262.0,
+        "Volume": 9.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:01:27",
+        "Symbol": "VN30F2404",
+        "Open": 1262.4,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:01:30",
+        "Symbol": "VN30F2404",
+        "Open": 1262.8,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:01:36",
+        "Symbol": "VN30F2404",
+        "Open": 1262.8,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:01:59",
+        "Symbol": "VN30F2404",
+        "Open": 1261.5,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:02:05",
+        "Symbol": "VN30F2404",
+        "Open": 1262.7,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:02:25",
+        "Symbol": "VN30F2404",
+        "Open": 1262.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:02:38",
+        "Symbol": "VN30F2404",
+        "Open": 1262.4,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:02:54",
+        "Symbol": "VN30F2404",
+        "Open": 1262.8,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:03:00",
+        "Symbol": "VN30F2404",
+        "Open": 1262.4,
+        "Volume": 10.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:03:09",
+        "Symbol": "VN30F2404",
+        "Open": 1263.4,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:03:13",
+        "Symbol": "VN30F2404",
+        "Open": 1263.4,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:03:16",
+        "Symbol": "VN30F2404",
+        "Open": 1263.4,
+        "Volume": 7.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:03:25",
+        "Symbol": "VN30F2404",
+        "Open": 1263.4,
+        "Volume": 12.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:03:31",
+        "Symbol": "VN30F2404",
+        "Open": 1263.4,
+        "Volume": 16.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:03:38",
+        "Symbol": "VN30F2404",
+        "Open": 1263.4,
+        "Volume": 18.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:03:44",
+        "Symbol": "VN30F2404",
+        "Open": 1263.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:04:04",
+        "Symbol": "VN30F2404",
+        "Open": 1263.9,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:04:07",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:04:11",
+        "Symbol": "VN30F2404",
+        "Open": 1264.8,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:04:20",
+        "Symbol": "VN30F2404",
+        "Open": 1264.7,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:04:24",
+        "Symbol": "VN30F2404",
+        "Open": 1264.8,
+        "Volume": 6.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:04:27",
+        "Symbol": "VN30F2404",
+        "Open": 1264.8,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:04:31",
+        "Symbol": "VN30F2404",
+        "Open": 1264.5,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:04:34",
+        "Symbol": "VN30F2404",
+        "Open": 1264.5,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:04:41",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:04:47",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:04:51",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:04:54",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:04:57",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:05:00",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:05:07",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:05:20",
+        "Symbol": "VN30F2404",
+        "Open": 1264.5,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:05:30",
+        "Symbol": "VN30F2404",
+        "Open": 1264.8,
+        "Volume": 6.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:05:37",
+        "Symbol": "VN30F2404",
+        "Open": 1265.0,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:05:44",
+        "Symbol": "VN30F2404",
+        "Open": 1265.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:05:47",
+        "Symbol": "VN30F2404",
+        "Open": 1265.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:05:51",
+        "Symbol": "VN30F2404",
+        "Open": 1265.0,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:05:54",
+        "Symbol": "VN30F2404",
+        "Open": 1265.0,
+        "Volume": 11.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:05:57",
+        "Symbol": "VN30F2404",
+        "Open": 1265.0,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:06:01",
+        "Symbol": "VN30F2404",
+        "Open": 1265.0,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:06:04",
+        "Symbol": "VN30F2404",
+        "Open": 1265.0,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:06:27",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:06:37",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:06:41",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:06:44",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:06:47",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:07:08",
+        "Symbol": "VN30F2404",
+        "Open": 1264.8,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:07:11",
+        "Symbol": "VN30F2404",
+        "Open": 1264.9,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:07:28",
+        "Symbol": "VN30F2404",
+        "Open": 1265.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:07:35",
+        "Symbol": "VN30F2404",
+        "Open": 1265.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:08:21",
+        "Symbol": "VN30F2404",
+        "Open": 1264.6,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:08:41",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:09:04",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:09:08",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:09:18",
+        "Symbol": "VN30F2404",
+        "Open": 1263.9,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:09:34",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:09:37",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:11:18",
+        "Symbol": "VN30F2404",
+        "Open": 1263.9,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:11:58",
+        "Symbol": "VN30F2404",
+        "Open": 1263.0,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:12:25",
+        "Symbol": "VN30F2404",
+        "Open": 1263.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:12:28",
+        "Symbol": "VN30F2404",
+        "Open": 1263.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:12:42",
+        "Symbol": "VN30F2404",
+        "Open": 1263.2,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:12:58",
+        "Symbol": "VN30F2404",
+        "Open": 1262.9,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:13:52",
+        "Symbol": "VN30F2404",
+        "Open": 1263.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:14:06",
+        "Symbol": "VN30F2404",
+        "Open": 1263.9,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:14:36",
+        "Symbol": "VN30F2404",
+        "Open": 1263.4,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:14:50",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:16:42",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:16:45",
+        "Symbol": "VN30F2404",
+        "Open": 1264.0,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:16:48",
+        "Symbol": "VN30F2404",
+        "Open": 1264.5,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:16:58",
+        "Symbol": "VN30F2404",
+        "Open": 1265.5,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:17:15",
+        "Symbol": "VN30F2404",
+        "Open": 1266.0,
+        "Volume": 10.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:17:19",
+        "Symbol": "VN30F2404",
+        "Open": 1266.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:17:25",
+        "Symbol": "VN30F2404",
+        "Open": 1266.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:17:29",
+        "Symbol": "VN30F2404",
+        "Open": 1266.3,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:17:43",
+        "Symbol": "VN30F2404",
+        "Open": 1266.7,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:17:46",
+        "Symbol": "VN30F2404",
+        "Open": 1267.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:18:00",
+        "Symbol": "VN30F2404",
+        "Open": 1267.0,
+        "Volume": 6.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:18:06",
+        "Symbol": "VN30F2404",
+        "Open": 1267.0,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:18:10",
+        "Symbol": "VN30F2404",
+        "Open": 1267.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:18:41",
+        "Symbol": "VN30F2404",
+        "Open": 1266.1,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:18:44",
+        "Symbol": "VN30F2404",
+        "Open": 1266.4,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:18:51",
+        "Symbol": "VN30F2404",
+        "Open": 1266.1,
+        "Volume": 7.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:18:58",
+        "Symbol": "VN30F2404",
+        "Open": 1267.2,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:19:01",
+        "Symbol": "VN30F2404",
+        "Open": 1267.9,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:19:12",
+        "Symbol": "VN30F2404",
+        "Open": 1267.9,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:19:15",
+        "Symbol": "VN30F2404",
+        "Open": 1267.9,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:19:18",
+        "Symbol": "VN30F2404",
+        "Open": 1268.0,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:19:22",
+        "Symbol": "VN30F2404",
+        "Open": 1268.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:19:29",
+        "Symbol": "VN30F2404",
+        "Open": 1268.7,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:19:32",
+        "Symbol": "VN30F2404",
+        "Open": 1268.7,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:19:36",
+        "Symbol": "VN30F2404",
+        "Open": 1269.0,
+        "Volume": 11.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:19:43",
+        "Symbol": "VN30F2404",
+        "Open": 1269.4,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:20:00",
+        "Symbol": "VN30F2404",
+        "Open": 1269.3,
+        "Volume": 6.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:20:47",
+        "Symbol": "VN30F2404",
+        "Open": 1268.6,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:21:01",
+        "Symbol": "VN30F2404",
+        "Open": 1268.8,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:21:08",
+        "Symbol": "VN30F2404",
+        "Open": 1268.8,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:21:35",
+        "Symbol": "VN30F2404",
+        "Open": 1268.9,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:21:39",
+        "Symbol": "VN30F2404",
+        "Open": 1268.9,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:22:14",
+        "Symbol": "VN30F2404",
+        "Open": 1268.0,
+        "Volume": 7.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:22:36",
+        "Symbol": "VN30F2404",
+        "Open": 1269.3,
+        "Volume": 8.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:22:39",
+        "Symbol": "VN30F2404",
+        "Open": 1270.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:22:43",
+        "Symbol": "VN30F2404",
+        "Open": 1270.0,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:22:46",
+        "Symbol": "VN30F2404",
+        "Open": 1270.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:22:54",
+        "Symbol": "VN30F2404",
+        "Open": 1270.1,
+        "Volume": 6.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:23:01",
+        "Symbol": "VN30F2404",
+        "Open": 1271.0,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:23:04",
+        "Symbol": "VN30F2404",
+        "Open": 1271.4,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:23:21",
+        "Symbol": "VN30F2404",
+        "Open": 1271.5,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:23:28",
+        "Symbol": "VN30F2404",
+        "Open": 1271.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:23:39",
+        "Symbol": "VN30F2404",
+        "Open": 1271.1,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:23:53",
+        "Symbol": "VN30F2404",
+        "Open": 1271.2,
+        "Volume": 7.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:24:01",
+        "Symbol": "VN30F2404",
+        "Open": 1271.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:24:19",
+        "Symbol": "VN30F2404",
+        "Open": 1270.2,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:24:44",
+        "Symbol": "VN30F2404",
+        "Open": 1270.3,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:24:51",
+        "Symbol": "VN30F2404",
+        "Open": 1271.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:25:09",
+        "Symbol": "VN30F2404",
+        "Open": 1272.0,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:25:17",
+        "Symbol": "VN30F2404",
+        "Open": 1271.9,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:25:20",
+        "Symbol": "VN30F2404",
+        "Open": 1272.0,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:25:28",
+        "Symbol": "VN30F2404",
+        "Open": 1273.0,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:25:35",
+        "Symbol": "VN30F2404",
+        "Open": 1273.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:25:46",
+        "Symbol": "VN30F2404",
+        "Open": 1273.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:25:49",
+        "Symbol": "VN30F2404",
+        "Open": 1273.0,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:25:57",
+        "Symbol": "VN30F2404",
+        "Open": 1273.1,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:26:00",
+        "Symbol": "VN30F2404",
+        "Open": 1272.9,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:26:26",
+        "Symbol": "VN30F2404",
+        "Open": 1273.1,
+        "Volume": 4.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:26:33",
+        "Symbol": "VN30F2404",
+        "Open": 1273.2,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:26:37",
+        "Symbol": "VN30F2404",
+        "Open": 1274.0,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:26:52",
+        "Symbol": "VN30F2404",
+        "Open": 1275.0,
+        "Volume": 15.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:27:03",
+        "Symbol": "VN30F2404",
+        "Open": 1275.0,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:27:21",
+        "Symbol": "VN30F2404",
+        "Open": 1274.9,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:28:10",
+        "Symbol": "VN30F2404",
+        "Open": 1272.3,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:28:21",
+        "Symbol": "VN30F2404",
+        "Open": 1273.0,
+        "Volume": 3.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:28:25",
+        "Symbol": "VN30F2404",
+        "Open": 1272.4,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:28:33",
+        "Symbol": "VN30F2404",
+        "Open": 1271.8,
+        "Volume": 17.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:28:37",
+        "Symbol": "VN30F2404",
+        "Open": 1272.5,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:28:59",
+        "Symbol": "VN30F2404",
+        "Open": 1273.9,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:29:33",
+        "Symbol": "VN30F2404",
+        "Open": 1273.7,
+        "Volume": 1.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:29:36",
+        "Symbol": "VN30F2404",
+        "Open": 1273.8,
+        "Volume": 7.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:29:40",
+        "Symbol": "VN30F2404",
+        "Open": 1273.9,
+        "Volume": 7.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:29:44",
+        "Symbol": "VN30F2404",
+        "Open": 1273.9,
+        "Volume": 6.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:29:56",
+        "Symbol": "VN30F2404",
+        "Open": 1273.9,
+        "Volume": 5.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:29:59",
+        "Symbol": "VN30F2404",
+        "Open": 1273.9,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:30:03",
+        "Symbol": "VN30F2404",
+        "Open": 1273.9,
+        "Volume": 2.0
+    },
+    {
+        "RType": "B",
+        "TradingDate": "13/03/2024",
+        "Time": "14:45:03",
+        "Symbol": "VN30F2404",
+        "Open": 1265.0,
+        "Volume": 179.0
+    }
+]
