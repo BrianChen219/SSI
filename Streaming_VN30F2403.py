@@ -46,7 +46,7 @@ def name_json():
     name_data = "DataVN30F2403_" + datetime.now().strftime("%d-%m-%H-%M-%S")
     type_data = ".json"
     if platform.system() == 'Windows':
-        path_data = 'Finance API\Architecture-automation-from-Finance-data-API-to-Cloud-Database-in-real-time\data\\vn30f2403\\'
+        path_data = 'L:\Project\Finance API\Architecture-automation-from-Finance-data-API-to-Cloud-Database-in-real-time\data\\vn30f2403\\'
     else:
         path_data = 'Finance API/Architecture-automation-from-Finance-data-API-to-Cloud-Database-in-real-time/data/vn30f2403/'
     path = path_data + name_data + type_data
@@ -99,7 +99,7 @@ def main():
             if message is not None and message != "" and message != "exit":
                 mm.swith_channel(message)
             (relaxTime, workTime) = _isReady()
-        mm.stop()
+        result_lst.pop(0)
         # Store data into json file
         if len(result_lst) != 0:
             path = name_json()
