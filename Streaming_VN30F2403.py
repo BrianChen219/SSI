@@ -46,9 +46,9 @@ def name_json():
     name_data = "DataVN30F2403_" + datetime.now().strftime("%d-%m-%H-%M-%S")
     type_data = ".json"
     if platform.system() == 'Windows':
-        path_data = 'L:\Project\Finance API\Architecture-automation-from-Finance-data-API-to-Cloud-Database-in-real-time\data\\vn30f2403\\'
+        path_data = 'L:\OneDrive\Learning Process\Project\Data\\vn30f2403\\'
     else:
-        path_data = 'Finance API/Architecture-automation-from-Finance-data-API-to-Cloud-Database-in-real-time/data/vn30f2403/'
+        path_data = '/Users/baobao/Library/CloudStorage/OneDrive-Personal/Learning Process/Project/Data/vn30f2403/'
     path = path_data + name_data + type_data
     return path
 
