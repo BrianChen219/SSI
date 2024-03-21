@@ -54,7 +54,7 @@ def name_json():
     if platform.system() == 'Windows':
         path_data = 'L:\OneDrive\Learning Process\Project\Data\\vn30\\'
     else:
-        path_data = '~/Users/baobao/Library/CloudStorage/OneDrive-Personal/Learning Process/Project/Data/vn30'
+        path_data = '/Users/baobao/Library/CloudStorage/OneDrive-Personal/Learning Process/Project/Data/vn30/'
     path = path_data + name_data + type_data
     return path
 

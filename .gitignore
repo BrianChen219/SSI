@@ -2,3 +2,4 @@ config.py
 __pycache__/
 ssi_fc_data/
 data/
+.DS_Store
