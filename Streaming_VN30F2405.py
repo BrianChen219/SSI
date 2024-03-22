@@ -43,12 +43,12 @@ def _isReady():
 
 
 def name_json():
-    name_data = "DataVN30F2403_" + datetime.now().strftime("%d-%m-%H-%M-%S")
+    name_data = "DataVN30F2405_" + datetime.now().strftime("%d-%m-%H-%M-%S")
     type_data = ".json"
     if platform.system() == 'Windows':
-        path_data = 'L:\OneDrive\Learning Process\Project\Data\\vn30f2403\\'
+        path_data = 'L:\OneDrive\Learning Process\Project\Data\\vn30f2405\\'
     else:
-        path_data = '/Users/baobao/Library/CloudStorage/OneDrive-Personal/Learning Process/Project/Data/vn30f2403/'
+        path_data = '/Users/baobao/Library/CloudStorage/OneDrive-Personal/Learning Process/Project/Data/vn30f2405/'
     path = path_data + name_data + type_data
     return path
 
@@ -74,7 +74,7 @@ def getError(error):
 
 def main():
     # selected_channel = input("Please select channel: ")
-    selected_channel = "B:VN30F2403"
+    selected_channel = "B:VN30F2405"
     message = None
     (relaxTime, workTime) = _isReady()
     while (relaxTime or workTime) and message != 'exit':
@@ -99,9 +99,9 @@ def main():
             if message is not None and message != "" and message != "exit":
                 mm.swith_channel(message)
             (relaxTime, workTime) = _isReady()
-        result_lst.pop(0)
         # Store data into json file
         if len(result_lst) != 0:
+            result_lst.pop(0)
             path = name_json()
             with open(path, 'w', encoding='utf8') as json_file:
                 json.dump(result_lst, json_file, indent=4)
