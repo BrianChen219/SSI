@@ -26,7 +26,7 @@ def _isReady():
     day = datetime.now().day
     atTime = datetime.now()
     beginTime = datetime(year, month, day, 9, 29, 50, 0)
-    beginBreak = datetime(year, month, day, 11, 30, 5, 0)
+    beginBreak = datetime(year, month, day, 12, 30, 5, 0)
     endBreak = datetime(year, month, day, 12, 59, 50, 0)
     endTime = datetime(year, month, day, 14, 45, 5, 0)
     if atTime < beginTime:
@@ -80,7 +80,10 @@ def main():
     # selected_channel = input("Please select channel: ")
     selected_channel = "MI:VN100"
     message = None
+    result_lst = []
     (relaxTime, workTime) = _isReady()
+    mm = MarketDataStream(result_lst, config, MarketDataClient(config))
+    mm.start(get_market_data, getError, selected_channel)
     while (relaxTime or workTime) and message != 'exit':
         message = None
         result_lst = []
@@ -89,8 +92,7 @@ def main():
             sleep(relaxTime)
         (relaxTime, workTime) = _isReady()
         if workTime > 0:
-            mm = MarketDataStream(result_lst, config, MarketDataClient(config))
-            mm.start(get_market_data, getError, selected_channel)
+            pass
         # Check work time, if work time is False so exit
         # Clients could exit by message
         while workTime and message != 'timeout' and message != 'exit':
@@ -104,6 +106,7 @@ def main():
                 mm.swith_channel(message)
             (relaxTime, workTime) = _isReady()
         # Store data into json file
+        mm.connection.stop()
         if len(result_lst) != 0:
             result_lst.pop(0)
             path = name_json()

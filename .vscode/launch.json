@@ -11,12 +11,6 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "justMyCode": false
-        },
-        {
-            "name": "Python Debugger: Streaming_VN30F2405.py",
-            "type": "python",
-            "request": "launch",
-            "program": "${workspaceFolder}/Streaming_VN30F2405.py"
         }
     ]
 }
