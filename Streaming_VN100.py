@@ -28,7 +28,7 @@ def _isReady():
     beginTime = datetime(year, month, day, 9, 29, 50, 0)
     beginBreak = datetime(year, month, day, 12, 30, 5, 0)
     endBreak = datetime(year, month, day, 12, 59, 50, 0)
-    endTime = datetime(year, month, day, 15, 45, 5, 0)
+    endTime = datetime(year, month, day, 16, 45, 5, 0)
     if atTime < beginTime:
         relaxTime = (beginTime - atTime).total_seconds()
         workTime = 0
