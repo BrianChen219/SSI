@@ -28,7 +28,7 @@ def _isReady():
     beginTime = datetime(year, month, day, 9, 29, 50, 0)
     beginBreak = datetime(year, month, day, 12, 30, 5, 0)
     endBreak = datetime(year, month, day, 12, 59, 50, 0)
-    endTime = datetime(year, month, day, 20, 45, 5, 0)
+    endTime = datetime(year, month, day, 22, 45, 5, 0)
     if atTime < beginTime:
         relaxTime = (beginTime - atTime).total_seconds()
         workTime = 0
@@ -80,38 +80,46 @@ def main():
     # selected_channel = input("Please select channel: ")
     selected_channel = "MI:VN100"
     message = None
-    result_lst = []
+    error = 0
     (relaxTime, workTime) = _isReady()
-    mm = MarketDataStream(result_lst, config, MarketDataClient(config))
-    mm.start(get_market_data, getError, selected_channel)
-    while (relaxTime or workTime) and message != 'exit':
+    while (relaxTime or workTime) and message != 'exit' and error <= 5:
         message = None
         result_lst = []
         if relaxTime > 0:
             print("Time for relax: ", relaxTime)
             sleep(relaxTime)
         (relaxTime, workTime) = _isReady()
-        if workTime > 0:
-            pass
-        # Check work time, if work time is False so exit
-        # Clients could exit by message
-        while workTime and message != 'timeout' and message != 'exit':
-            print("Time for crawling: ", workTime)
-            try:
-                message = inputimeout(
-                    prompt=">> Type 'exit' or choose different channel:\n", timeout=workTime)
-            except:
-                message = 'timeout'
-            if message is not None and message != "" and message != "exit":
-                mm.swith_channel(message)
-            (relaxTime, workTime) = _isReady()
+        try:
+            if workTime > 0:
+                mm = MarketDataStream(result_lst, config,
+                                      MarketDataClient(config))
+                mm.start(get_market_data, getError, selected_channel)
+            # Check work time, if work time is False so exit
+            # Clients could exit by message
+            while workTime and message != 'timeout' and message != 'exit':
+                print("Time for crawling: ", workTime)
+                try:
+                    message = inputimeout(
+                        prompt=">> Type 'exit' or choose different channel:\n", timeout=workTime)
+                except:
+                    message = 'timeout'
+                if message is not None and message != "" and message != "exit":
+                    mm.swith_channel(message)
+                (relaxTime, workTime) = _isReady()
+        except:
+            print("Error Connection! Reconnecting")
+            print(f"Number of errors: {error}")
+            error += 1
+            continue
         # Store data into json file
         mm.connection.stop()
+        mm = None
         if len(result_lst) != 0:
             result_lst.pop(0)
             path = name_json()
             with open(path, 'w', encoding='utf8') as json_file:
                 json.dump(result_lst, json_file, indent=4)
+        result_lst = None
 
 
 main()
