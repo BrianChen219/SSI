@@ -28,7 +28,7 @@ def _isReady():
     beginTime = datetime(year, month, day, 9, 29, 50, 0)
     beginBreak = datetime(year, month, day, 12, 30, 5, 0)
     endBreak = datetime(year, month, day, 12, 59, 50, 0)
-    endTime = datetime(year, month, day, 22, 45, 5, 0)
+    endTime = datetime(year, month, day, 14, 45, 30, 0)
     if atTime < beginTime:
         relaxTime = (beginTime - atTime).total_seconds()
         workTime = 0
@@ -121,5 +121,5 @@ def main():
                 json.dump(result_lst, json_file, indent=4)
         result_lst = None
 
-
-main()
+if __name__ == '__main__':
+    main()
