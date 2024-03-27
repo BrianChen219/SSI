@@ -2,7 +2,6 @@ import config
 import json
 import platform
 from time import sleep
-from threading import Timer
 from datetime import datetime
 from ssi_fc_data.fc_md_stream import MarketDataStream
 from ssi_fc_data.fc_md_client import MarketDataClient
@@ -25,8 +24,8 @@ def _isReady():
     month = datetime.now().month
     day = datetime.now().day
     atTime = datetime.now()
-    beginTime = datetime(year, month, day, 9, 29, 50, 0)
-    beginBreak = datetime(year, month, day, 12, 30, 5, 0)
+    beginTime = datetime(year, month, day, 9, 14, 0, 0)
+    beginBreak = datetime(year, month, day, 11, 32, 30, 0)
     endBreak = datetime(year, month, day, 12, 59, 50, 0)
     endTime = datetime(year, month, day, 14, 45, 30, 0)
     if atTime < beginTime:
@@ -112,8 +111,9 @@ def main():
             error += 1
             continue
         # Store data into json file
-        mm.connection.stop()
-        mm = None
+        if mm is not None:
+            mm.stop()
+            mm = None
         if len(result_lst) != 0:
             result_lst.pop(0)
             path = name_json()

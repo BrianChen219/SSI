@@ -76,35 +76,47 @@ def main():
     # selected_channel = input("Please select channel: ")
     selected_channel = "B:VN30F2404"
     message = None
+    error = 0
     (relaxTime, workTime) = _isReady()
-    while (relaxTime or workTime) and message != 'exit':
+    while (relaxTime or workTime) and message != 'exit' and error <= 5:
         message = None
         result_lst = []
         if relaxTime > 0:
             print("Time for relax: ", relaxTime)
             sleep(relaxTime)
         (relaxTime, workTime) = _isReady()
-        if workTime > 0:
-            mm = MarketDataStream(result_lst, config, MarketDataClient(config))
-            mm.start(get_market_data, getError, selected_channel)
-        # Check work time, if work time is False so exit
-        # Clients could exit by message
-        while workTime and message != 'timeout' and message != 'exit':
-            print("Time for crawling: ", workTime)
-            try:
-                message = inputimeout(
-                    prompt=">> Type 'exit' or choose different channel:\n", timeout=workTime)
-            except:
-                message = 'timeout'
-            if message is not None and message != "" and message != "exit":
-                mm.swith_channel(message)
-            (relaxTime, workTime) = _isReady()
+        try:
+            if workTime > 0:
+                mm = MarketDataStream(result_lst, config,
+                                      MarketDataClient(config))
+                mm.start(get_market_data, getError, selected_channel)
+            # Check work time, if work time is False so exit
+            # Clients could exit by message
+            while workTime and message != 'timeout' and message != 'exit':
+                print("Time for crawling: ", workTime)
+                try:
+                    message = inputimeout(
+                        prompt=">> Type 'exit' or choose different channel:\n", timeout=workTime)
+                except:
+                    message = 'timeout'
+                if message is not None and message != "" and message != "exit":
+                    mm.swith_channel(message)
+                (relaxTime, workTime) = _isReady()
+        except:
+            print("Error Connection! Reconnecting")
+            print(f"Number of errors: {error}")
+            error += 1
+            continue
         # Store data into json file
+        if mm is not None:
+            mm.stop()
+            mm = None
         if len(result_lst) != 0:
             result_lst.pop(0)
             path = name_json()
             with open(path, 'w', encoding='utf8') as json_file:
                 json.dump(result_lst, json_file, indent=4)
+        result_lst = None
 
-
-main()
+if __name__ == '__main__':
+    main()
