@@ -1,4 +1,5 @@
 config.py
+fc_config.py
 __pycache__/
 ssi_fc_data/
 data/

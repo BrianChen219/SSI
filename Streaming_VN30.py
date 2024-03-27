@@ -2,7 +2,6 @@ import config
 import json
 import platform
 from time import sleep
-from threading import Timer
 from datetime import datetime
 from ssi_fc_data.fc_md_stream import MarketDataStream
 from ssi_fc_data.fc_md_client import MarketDataClient
@@ -25,8 +24,8 @@ def _isReady():
     month = datetime.now().month
     day = datetime.now().day
     atTime = datetime.now()
-    beginTime = datetime(year, month, day, 9, 29, 50, 0)
-    beginBreak = datetime(year, month, day, 11, 30, 5, 0)
+    beginTime = datetime(year, month, day, 9, 14, 0, 0)
+    beginBreak = datetime(year, month, day, 11, 32, 30, 0)
     endBreak = datetime(year, month, day, 12, 59, 50, 0)
     endTime = datetime(year, month, day, 14, 45, 30, 0)
     if atTime < beginTime:
@@ -80,36 +79,47 @@ def main():
     # selected_channel = input("Please select channel: ")
     selected_channel = "MI:VN30"
     message = None
+    error = 0
     (relaxTime, workTime) = _isReady()
-    while (relaxTime or workTime) and message != 'exit':
+    while (relaxTime or workTime) and message != 'exit' and error <= 5:
         message = None
         result_lst = []
         if relaxTime > 0:
             print("Time for relax: ", relaxTime)
             sleep(relaxTime)
         (relaxTime, workTime) = _isReady()
-        if workTime > 0:
-            mm = MarketDataStream(result_lst, config, MarketDataClient(config))
-            mm.start(get_market_data, getError, selected_channel)
-        # Check work time, if work time is False so exit
-        # Clients could exit by message
-        while workTime and message != 'timeout' and message != 'exit':
-            print("Time for crawling: ", workTime)
-            try:
-                message = inputimeout(
-                    prompt=">> Type 'exit' or choose different channel:\n", timeout=workTime)
-            except:
-                message = 'timeout'
-            if message is not None and message != "" and message != "exit":
-                mm.swith_channel(message)
-            (relaxTime, workTime) = _isReady()
+        try:
+            if workTime > 0:
+                mm = MarketDataStream(result_lst, config,
+                                      MarketDataClient(config))
+                mm.start(get_market_data, getError, selected_channel)
+            # Check work time, if work time is False so exit
+            # Clients could exit by message
+            while workTime and message != 'timeout' and message != 'exit':
+                print("Time for crawling: ", workTime)
+                try:
+                    message = inputimeout(
+                        prompt=">> Type 'exit' or choose different channel:\n", timeout=workTime)
+                except:
+                    message = 'timeout'
+                if message is not None and message != "" and message != "exit":
+                    mm.swith_channel(message)
+                (relaxTime, workTime) = _isReady()
+        except:
+            print("Error Connection! Reconnecting")
+            print(f"Number of errors: {error}")
+            error += 1
+            continue
         # Store data into json file
+        if mm is not None:
+            mm.stop()
+            mm = None
         if len(result_lst) != 0:
             result_lst.pop(0)
             path = name_json()
             with open(path, 'w', encoding='utf8') as json_file:
                 json.dump(result_lst, json_file, indent=4)
-        
+        result_lst = None
 
-
-main()
+if __name__ == '__main__':
+    main()
